@@ -45,7 +45,7 @@ It is a plain `SKILL.md` folder, so it works anywhere the Agent Skills standard 
 
 ## No subtitle text, anywhere
 
-No repository here contains a subtitle file, a line of dialogue, or a dialogue translation. Every published entry is a headword, a gloss and an IPA transcription — nothing else. That is enforced by a script rather than by good intentions: the release audit fails the build if it ever finds otherwise.
+No repository here contains a subtitle file, a transcript, or a dialogue translation. Every published entry is a headword, a gloss and an IPA transcription — nothing else. That is enforced by a script rather than by good intentions: the release audit fails the build if it ever finds otherwise.
 
 ## What is coming
 
