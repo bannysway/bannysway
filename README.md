@@ -56,6 +56,12 @@ No repository here contains a subtitle file, a transcript, or a dialogue transla
 
 ## Elsewhere
 
-The remaining repositories are earlier practice projects. [bannysway.github.io](https://github.com/bannysway/bannysway.github.io) is the GitHub Pages site.
+**Browse without installing anything.** Every corpus also ships as a single-file web page — the whole word list, with a search box, no server and no build step:
+
+- 🚔 [NYPD Blue vocabulary](https://bannysway.github.io/tv-vocab-nypd-blue/)
+- ☕ [Friends vocabulary](https://bannysway.github.io/tv-vocab-friends/)
+- 🎹 [Your Lie in April vocabulary](https://bannysway.github.io/tv-vocab-your-lie-in-april/)
+
+The remaining repositories are earlier practice projects, and [bannysway.github.io](https://bannysway.github.io/) is where the blog lives.
 
 If any of this is useful, a ⭐ on [grab-series-vocab](https://github.com/bannysway/grab-series-vocab) helps other people find it.

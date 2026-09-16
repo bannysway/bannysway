@@ -56,6 +56,12 @@ npx skills add bannysway/grab-series-vocab --skill grab-series-vocab
 
 ## 其它
 
-剩下的仓库是早年的练习项目。[bannysway.github.io](https://github.com/bannysway/bannysway.github.io) 是 GitHub Pages 站点。
+**什么都不用装就能查词。** 每个语料库另外发布成一个单文件网页——整份词表加一个搜索框，不用服务器、不用构建：
+
+- 🚔 [NYPD Blue 词库](https://bannysway.github.io/tv-vocab-nypd-blue/)
+- ☕ [老友记词库](https://bannysway.github.io/tv-vocab-friends/)
+- 🎹 [四月是你的谎言词库](https://bannysway.github.io/tv-vocab-your-lie-in-april/)
+
+剩下的仓库是早年的练习项目，[bannysway.github.io](https://bannysway.github.io/) 是博客。
 
 如果这些对你有用，给 [grab-series-vocab](https://github.com/bannysway/grab-series-vocab) 点个 ⭐ 能让更多人看到它。
